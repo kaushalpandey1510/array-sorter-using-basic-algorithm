@@ -130,4 +130,6 @@ Contributions are welcome! If you'd like to improve the project:
 
 ---
 
-Happy Coding! 🚀# array-sorter-using-basic-algorithm
+Happy Coding! 🚀
+
+# array-sorter-using-basic-algorithm
